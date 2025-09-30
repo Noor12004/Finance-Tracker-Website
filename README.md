@@ -58,5 +58,8 @@ git clone https://github.com/Noor12004/Finance-Tracker-Website.git
 
 cd Finance-Tracker-Website
 
+![Login](./docs/login.png)
+![Dashboard](./docs/dashboard.png)
+
 
 
