@@ -32,6 +32,22 @@ A full-stack personal finance tracking web application built with React, Node.js
 
  Auth: JWT for secure authentication  
 
+ 📷 Screenshots
+
+### Login Page
+![Login](./docs/login.png)
+
+### Dashboard
+![Dashboard](./docs/dashboard.png)
+
+### Register Page
+![Register](./docs/register.png)
+
+### Transactions
+![Transactions 1](./docs/transactions1.png)
+![Transactions 2](./docs/transactions2.png)
+
+
 
 
 
