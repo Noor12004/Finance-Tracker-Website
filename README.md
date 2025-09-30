@@ -44,8 +44,8 @@ A full-stack personal finance tracking web application built with React, Node.js
 ![Register](./docs/Register.png)
 
 ### Transactions
-![Transactions 1](./docs/Transactions 1.png)
-![Transactions 2](./docs/Transactions 2.png)
+![Transactions 1](./docs/Transactions1.png)
+![Transactions 2](./docs/Transactions2.png)
 
 
 
