@@ -35,17 +35,17 @@ A full-stack personal finance tracking web application built with React, Node.js
  📷 Screenshots
 
 ### Login Page
-![Login](./docs/login.png)
+![Login](./docs/Login.png)
 
 ### Dashboard
-![Dashboard](./docs/dashboard.png)
+![Dashboard](./docs/Dashboard.png)
 
 ### Register Page
-![Register](./docs/register.png)
+![Register](./docs/Register.png)
 
 ### Transactions
-![Transactions 1](./docs/transactions1.png)
-![Transactions 2](./docs/transactions2.png)
+![Transactions 1](./docs/Transactions1.png)
+![Transactions 2](./docs/Transactions2.png)
 
 
 
